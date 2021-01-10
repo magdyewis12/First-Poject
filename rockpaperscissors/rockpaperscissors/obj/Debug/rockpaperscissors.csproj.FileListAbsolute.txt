@@ -1,0 +1,11 @@
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe.config
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.Form1.resources
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.Properties.Resources.resources
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.GenerateResource.cache
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.exe
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.pdb
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.helpScreen.resources
+C:\Users\Magdy Owies\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csprojAssemblyReference.cache
